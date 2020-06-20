@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "660637276895",
+    "firebase_url": "https://shop-5da20.firebaseio.com",
+    "project_id": "shop-5da20",
+    "storage_bucket": "shop-5da20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660637276895:android:1feeadd3df5e9139e9e76a",
+        "android_client_info": {
+          "package_name": "com.narteu.A5Loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660637276895-cgp1segm8a1uisdbuisldb7it8kjpv8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEF-ceQXA5XpieYnR4jzW6YI3UI9osaWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660637276895-cgp1segm8a1uisdbuisldb7it8kjpv8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "660637276895-r3qf58ohf9j6a72bb3jeir0ubtgp814j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.narteu.A5Loja"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
